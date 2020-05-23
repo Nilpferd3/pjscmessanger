@@ -167,7 +167,7 @@ Project Link: [https://github.com/Nilpferd3/pjscmmessanger](https://github.com/N
 [contributors-url]: https://github.com/Nilpferd3/psjcmessanger/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Nilpferd3/psjcmessanger.svg?style=flat-square
 [forks-url]: https://github.com/Nilpferd3/psjcmessanger/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Nilpferd3/psjcmessanger.svg?style=flat-square
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/Nilpferd3/psjcmessanger/issues
