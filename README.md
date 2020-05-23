@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Nilpferd3 - [@Nilpferd3](https://twitter.com/Nilpferd3) - nilpferd3@hippox.me
+Nilpferd3 - [@Nilpferd3_](https://twitter.com/Nilpferd3_) - nilpferd3@hippox.me
 
 Project Link: [https://github.com/Nilpferd3/pjscmmessanger](https://github.com/Nilpferd3/pjscmmessanger)
 
